@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-tavily
+langsmith
+tavily-python
+python-dotenv
+
+# Scraping / content extraction
+requests
+trafilatura
+beautifulsoup4
+lxml
